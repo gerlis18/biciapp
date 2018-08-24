@@ -1,9 +1,13 @@
 # biciapp
 Repository for public project "BiciApp"
 
-## Rutas avaladas
+## Rutas Ciclovia
 
-![Mapa](https://idrd.gov.co/Ciclovia/wp-content/uploads/2018/04/Mapa-Ciclovi%CC%81a-rutas-2017-twitter-02.jpg)
+![Rutas de ciclovia](https://idrd.gov.co/Ciclovia/wp-content/uploads/2018/04/Mapa-Ciclovi%CC%81a-rutas-2017-twitter-02.jpg)
+
+## Rutas por localidades
+
+![Rutas de ciclovia](https://idrd.gov.co/Ciclovia/wp-content/uploads/2018/04/Mapa-Ciclovi%CC%81a-por-Localidades-twitter.jpg)
 
 ## Referencias legales
 
